@@ -1,0 +1,17 @@
+{
+  "name": "webpack-inject-css-plugin",
+  "version": "1.0.0",
+  "description": "this is a plugin for adding independent css to webpack bundle ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "inject",
+    "css",
+    "plugin"
+  ],
+  "author": "Tommy_Yang",
+  "license": "ISC"
+}
